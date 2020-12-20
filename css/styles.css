@@ -175,6 +175,7 @@ hr{
     background-color: var(--image-other-green);
     border: 2px solid var(--image-other-green);
     color: var(--primary-color);
+    
     transition: all 0.2s ease-in-out;
     opacity: 0.8;
 }
