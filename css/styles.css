@@ -198,7 +198,14 @@ hr{
     color : whitesmoke;
     
 }
+.showcase-list {
+    padding: 2rem;
+}
 
+/** blogs **/
+.showcase-blog {
+    padding-bottom: 6rem;
+}
 
 .footer{
     text-align: center;
