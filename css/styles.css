@@ -83,9 +83,18 @@ hr{
     color : var(--primary-white);
 
 }
+.minds .minds-heading-small{
+    text-align: center;
+    padding-top: 0.5rem;
+    color : var(--primary-white);
 
+}
 .minds .minds-heading .heading-inverted{
     color : var(--image-other-green);
+}
+
+.minds .minds-heading-small .heading-inverted{
+    color: var(--image-other-green);
 }
 .section {
     padding: 2rem;
