@@ -29,7 +29,7 @@ body{
     
 }
 .alter{
-    color : var(--yours-green);
+    color : var(--image-other-green);
 }
 .different{
     color: var(--primary-white);
@@ -85,7 +85,7 @@ hr{
 }
 
 .minds .minds-heading .heading-inverted{
-    color : var(--yours-green);
+    color : var(--image-other-green);
 }
 .section {
     padding: 2rem;
@@ -108,7 +108,7 @@ hr{
     /* background-color: var(--primary-color);
      */
      /* background-color: var(--yours-green); */
-     background-color: var(--yours-green);
+     background-color: var(--image-other-green);
     color : var(--primary-color);
     box-shadow: 1px 5px 25px 0px var(--image-other-green);
     padding : 1rem;
@@ -130,7 +130,7 @@ hr{
 .navigation .link{
     color: var(--primary-color);
     text-decoration: none;
-    font-weight: bolder;
+    
 }
 .navigation .link:hover{
     color: var(--hover-black);
@@ -149,7 +149,7 @@ hr{
     box-sizing: border-box;
 }
 .link-primary{
-    background-color: var(--yours-green);
+    background-color: var(--image-other-green);
     color: var(--primary-color);
     border-radius: 0.5rem;
     display: block;
@@ -164,7 +164,7 @@ hr{
 }
 .link-secondary{
     background-color: var(--primary-color);
-    color: var(--yours-green);
+    color: var(--image-other-green);
     border-radius: 0.5rem;
     border: 2px solid var(--hover-green);
     display: block;
